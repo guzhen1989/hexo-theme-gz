@@ -40,7 +40,7 @@ baidu_id:
 
 about: 
   banner: http://file.muyutech.com/about.jpg
-  avatar: images/avatar.png
+  avatar: /css/images/avatar.png
   description: Go Ahead.
   # Links
   weibo_username:
