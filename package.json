@@ -1,26 +1,25 @@
 {
-  "name": "hexo-theme-vexo",
-  "version": "1.4.0",
-  "description": "Vexo is a Hexo theme inspired by Vue's official website.",
+  "name": "hexo-theme-gz",
+  "version": "1.0.0",
+  "description": "guzhen's theme modified based on vexo by yanm1ng.",
   "scripts": {
     "setup": "npm cache clean && npm install",
     "lint": "bash lint.sh"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yanm1ng/hexo-theme-vexo.git"
+    "url": "git+https://github.com/guzhen1989/hexo-theme-gz.git"
   },
   "keywords": [
     "hexo",
-    "theme",
-    "vexo"
+    "theme"
   ],
-  "author": "yanm1ng",
+  "author": "guzhen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yanm1ng/hexo-theme-vexo/issues"
+    "url": "https://github.com/guzhen1989/hexo-theme-gz/issues"
   },
-  "homepage": "https://github.com/yanm1ng/hexo-theme-vexo",
+  "homepage": "https://github.com/guzhen1989/hexo-theme-gz",
   "devDependencies": {
     "ejs-lint": "^0.2.0",
     "eslint": "^3.14.0",
