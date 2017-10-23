@@ -41,10 +41,11 @@ baidu_id:
 about: 
   banner: http://file.muyutech.com/about.jpg
   avatar: /css/images/avatar.jpg
-  description: Go Ahead.
+  description: 动漫 and 小说 and 技术！！ 好吧，先走出第一步吧
   # Links
   weibo_username:
   twitter_username:
   github_username: guzhen1989
   zhihu_username: guzhen1989
   douban_username:
+  gitee_username: 1132053388
